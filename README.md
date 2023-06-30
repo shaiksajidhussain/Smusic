@@ -1,4 +1,5 @@
-# SMusic App - Free Music ![image](https://github.com/shaiksajidhussain/Smusic/assets/93574244/b9a14648-d157-442e-9082-6916ca53e674)
+# SMusic App - Free Music ![image](https://github.com/shaiksajidhussain/Smusic/assets/93574244/315e90fb-e987-483c-a513-aa8bb6581765)
+
 
 Overview
 <h2>This project is an SMusic (Simple Music) app that offers free music streaming. It is built using XML, JSX, and Flutter Flow, and it integrates with a music API to provide a wide range of songs for users to listen to.</h2>
